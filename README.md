@@ -15,13 +15,13 @@ These will be included in the repository (exclusively for ease of use) but here 
 
 ### Linux (unspecific)
 
-![Manjaro AMD style badge](https://raw.githubusercontent.com/Dragonsight91/Linux-case-badges/master/AMD-style/rendered/linux-amd.png)
+![Manjaro AMD style badge](https://raw.githubusercontent.com/Dragonsight91/Linux-case-badges/master/AMD-style/rendered/v1/linux-amd.png)
 
-![Manjaro Intel style badge](https://raw.githubusercontent.com/Dragonsight91/Linux-case-badges/master/Intel-style/rendered/linux-intel.png)
+![Manjaro Intel style badge](https://raw.githubusercontent.com/Dragonsight91/Linux-case-badges/master/Intel-style/rendered/v1/linux-intel.png)
 
 ### Manjaro
 
-![Manjaro AMD style badge](https://raw.githubusercontent.com/Dragonsight91/Linux-case-badges/master/AMD-style/rendered/linux-manjaro_amd.png)
+![Manjaro AMD style badge](https://raw.githubusercontent.com/Dragonsight91/Linux-case-badges/master/AMD-style/rendered/v1/linux-manjaro_amd.png)
 
-![Manjaro Intel style badge](https://raw.githubusercontent.com/Dragonsight91/Linux-case-badges/master/Intel-style/rendered/linux-manjaro_intel.png)
+![Manjaro Intel style badge](https://raw.githubusercontent.com/Dragonsight91/Linux-case-badges/master/Intel-style/rendered/v1/linux-manjaro_intel.png)
 
